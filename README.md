@@ -27,7 +27,7 @@ ChaiCode is a GenAI-powered chatbot that helps developers instantly search and u
 Visit: 👉 [https://chat.nexorahq.tech](https://chat.nexorahq.tech)
 
 ## 📸 Preview
-![App Screenshot](https://github.com/Deepak-kumar-2023/rag-chat-backend/image.png)
+![App Screenshot]((https://github.com/Deepak-kumar-2023/rag-chat-backend/blob/main/image.png))
 
 ## 🤝 Contributions
 This is a side project. Feel free to open issues, fork it, or give feedback!
